@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Paper",
+  "description": "The official premium home of Dr. Paper - Uncap the Flavor Revolution. A bold, premium, and energetic beverage crafted for those who never settle for ordinary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
